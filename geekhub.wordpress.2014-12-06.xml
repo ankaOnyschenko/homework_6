@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.0" created="2014-12-06 10:50" -->
+<!-- generator="WordPress/4.0" created="2014-12-06 20:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>geekhub</title>
 	<link>http://geekhub</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sat, 06 Dec 2014 10:50:13 +0000</pubDate>
+	<pubDate>Sat, 06 Dec 2014 20:11:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://geekhub</wp:base_site_url>
@@ -1905,36 +1905,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-				<title>Головна</title>
-		<link>http://geekhub/?page_id=8</link>
-		<pubDate>Fri, 31 Oct 2014 16:53:25 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress/?page_id=8</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date>2014-10-31 16:53:25</wp:post_date>
-		<wp:post_date_gmt>2014-10-31 16:53:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%bd%d0%b0</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[page.php]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 				<title></title>
 		<link>http://geekhub/?p=9</link>
 		<pubDate>Thu, 06 Nov 2014 18:29:37 +0000</pubDate>
@@ -2617,8 +2587,8 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://geekhub/?post_type=newposttype&#038;p=364</link>
-		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+		<link>http://geekhub/?newposttype=364</link>
+		<pubDate>Sat, 06 Dec 2014 10:44:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://geekhub/?post_type=newposttype&#038;p=364</guid>
 		<description></description>
@@ -2626,11 +2596,11 @@
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>364</wp:post_id>
 		<wp:post_date>2014-12-06 10:44:31</wp:post_date>
-		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:post_date_gmt>2014-12-06 10:44:31</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name></wp:post_name>
-		<wp:status>draft</wp:status>
+		<wp:post_name>364</wp:post_name>
+		<wp:status>trash</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>newposttype</wp:post_type>
@@ -2639,6 +2609,60 @@
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1417893677]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title></title>
+		<link>http://geekhub/?newposttype=366</link>
+		<pubDate>Sat, 06 Dec 2014 13:46:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://geekhub/?post_type=newposttype&#038;p=366</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>366</wp:post_id>
+		<wp:post_date>2014-12-06 13:46:17</wp:post_date>
+		<wp:post_date_gmt>2014-12-06 13:46:17</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>366</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>newposttype</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_a</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_b</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_c</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1417893675]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2681,6 +2705,36 @@ As a new WordPress user, you should go to <a href="http://geekhub/wp-admin/">you
 		<wp:postmeta>
 			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
 			<wp:meta_value><![CDATA[1415298959]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>Головна</title>
+		<link>http://geekhub/?page_id=8</link>
+		<pubDate>Fri, 31 Oct 2014 16:53:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wordpress/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date>2014-10-31 16:53:25</wp:post_date>
+		<wp:post_date_gmt>2014-10-31 16:53:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%bd%d0%b0</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3359,6 +3413,182 @@ JS - незвичайна мова, тому будемо максимально
 		</wp:postmeta>
 	</item>
 	<item>
+				<title>ррррррррррррррррррр</title>
+		<link>http://geekhub/?newposttype=%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80</link>
+		<pubDate>Sat, 06 Dec 2014 14:04:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://geekhub/?post_type=newposttype&#038;p=375</guid>
+		<description></description>
+		<content:encoded><![CDATA[рррррррррррррр]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>375</wp:post_id>
+		<wp:post_date>2014-12-06 14:04:14</wp:post_date>
+		<wp:post_date_gmt>2014-12-06 14:04:14</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80%d1%80</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>newposttype</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>meta_a</wp:meta_key>
+			<wp:meta_value><![CDATA[ррррррррррррррррррррррррррррррррррррр]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_b</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:5:"Array";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_c</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1417893672]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>приоримр</title>
+		<link>http://geekhub/?newposttype=%d0%bf%d1%80%d0%b8%d0%be%d1%80%d0%b8%d0%bc%d1%80</link>
+		<pubDate>Sat, 06 Dec 2014 19:18:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://geekhub/?post_type=newposttype&#038;p=391</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>391</wp:post_id>
+		<wp:post_date>2014-12-06 19:18:25</wp:post_date>
+		<wp:post_date_gmt>2014-12-06 19:18:25</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d0%bf%d1%80%d0%b8%d0%be%d1%80%d0%b8%d0%bc%d1%80</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>newposttype</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1417893670]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>апапв</title>
+		<link>http://geekhub/?newposttype=%d0%b0%d0%bf%d0%b0%d0%bf%d0%b2</link>
+		<pubDate>Sat, 06 Dec 2014 19:19:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://geekhub/?post_type=newposttype&#038;p=392</guid>
+		<description></description>
+		<content:encoded><![CDATA[мммммммммммммммммммммммммммммммммммммммммммммммм]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>392</wp:post_id>
+		<wp:post_date>2014-12-06 19:19:06</wp:post_date>
+		<wp:post_date_gmt>2014-12-06 19:19:06</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d0%b0%d0%bf%d0%b0%d0%bf%d0%b2</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>newposttype</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_a</wp:meta_key>
+			<wp:meta_value><![CDATA[мисимсим]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_b</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>meta_c</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1417893667]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>Hello world!</title>
+		<link>http://geekhub/?p=1</link>
+		<pubDate>Thu, 06 Nov 2014 18:15:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://geekhub/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date>2014-11-06 18:15:20</wp:post_date>
+		<wp:post_date_gmt>2014-11-06 18:15:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hello-world</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1415298925]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP></wp:comment_author_IP>
+			<wp:comment_date>2014-11-06 18:15:20</wp:comment_date>
+			<wp:comment_date_gmt>2014-11-06 18:15:20</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
+			<wp:comment_approved>post-trashed</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
 				<title>Advanced PHP</title>
 		<link>http://geekhub/?p=137</link>
 		<pubDate>Sat, 01 Nov 2014 20:41:03 +0000</pubDate>
@@ -3562,56 +3792,6 @@ JS - незвичайна мова, тому будемо максимально
 			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
 			<wp:meta_value><![CDATA[1415298937]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-				<title>Hello world!</title>
-		<link>http://geekhub/?p=1</link>
-		<pubDate>Thu, 06 Nov 2014 18:15:20 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://geekhub/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2014-11-06 18:15:20</wp:post_date>
-		<wp:post_date_gmt>2014-11-06 18:15:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1415298925]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2014-11-06 18:15:20</wp:comment_date>
-			<wp:comment_date_gmt>2014-11-06 18:15:20</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 				<title></title>
